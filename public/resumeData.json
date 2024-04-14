@@ -1,0 +1,89 @@
+{
+  "main": {
+    "name": "Nathaniel Nadeau",
+    "occupation": "Software Engineer",
+    "description": "With experience in cloud development, backend development, and automation, I have a strong engineering background and am looking to solve new and complex problems.",
+    "image": "profilepic.jpg",
+    "bio": "Software engineer, problem solver and fast learner with full stack experience.  Skilled in cloud native technologies, architecture and DevOps.  Passionate about writing clean code and looking to collaborate with a team to solve tough problems.",
+    "email": "natnad59@gmail.com",
+    "address": {
+      "city": "Portland ",
+      "state": "Maine"
+    },
+    "website": "https://www.jbutler.dev",
+    "resumedownload": "https://jbutler.dev/NathanielNadeau.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://linkedin.com/in/nathaniel-nadeau",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/natnad59",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "Stonehill College",
+        "degree": "Bachelors in Computer Science",
+        "graduated": "May 2020",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "General Dynamics Mission Systems",
+        "title": "Software Engineer",
+        "years": "June 2019 - Present",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "Golang"
+      },
+      {
+        "name": "Cloud Development"
+      },
+      {
+        "name": "Virtualization"
+      },
+      {
+        "name": "Leadership"
+      },
+      {
+        "name": "C++"
+      },
+      {
+        "name": "Containerization"
+      },
+      {
+        "name": "Communication"
+      },
+      {
+        "name": "Python"
+      },
+      {
+        "name": "Kubernetes"
+      },
+      {
+        "name": "Agile"
+      },
+      {
+        "name": "Git"
+      },
+      {
+        "name": "DevOps"
+      }
+    ]
+  },
+  "portfolio": {
+    "icon": "fa fa-github",
+    "url": "https://github.com/natnad59"
+  }
+}
