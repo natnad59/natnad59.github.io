@@ -1,1 +1,6 @@
-# natnad59.github.io
+# Nathaniel Nadeau's Resume      
+
+
+## Credits
+##### Tim Baker
+<a href="https://github.com/tbakerx/react-resume-template">React Resume Template</a>
