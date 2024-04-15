@@ -2,9 +2,9 @@
   "main": {
     "name": "Nathaniel Nadeau",
     "occupation": "Software Engineer",
-    "description": "With experience in cloud development, backend development, and automation, I have a strong engineering background and am looking to solve new and complex problems.",
+    "description": "With experience in cloud development, backend development, and automation. I have a strong engineering background and am looking to solve new and complex problems.",
     "image": "profilepic.jpg",
-    "bio": "Software engineer, problem solver and fast learner with full stack experience.  Skilled in cloud native technologies, architecture and DevOps.  Passionate about writing clean code and looking to collaborate with a team to solve tough problems.",
+    "bio": "Software engineer, problem solver and fast learner with full stack experience.  Skilled in cloud native technologies, architecture and DevOps.  Passionate about writing clean code and looking to collaborate with a team to solve tough problems",
     "email": "natnad59@gmail.com",
     "address": {
       "city": "Portland ",
